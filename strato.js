@@ -5,7 +5,7 @@
     const style = document.createElement('style');
     style.innerHTML = `
       div#widgetcontainer_STRATP_cm4all_com_widgets_Embed_54507677 {
-        height: 100% !important;
+        height: 100vh !important;
       }
       td#content_right_wrapper {
         display: none !important;
